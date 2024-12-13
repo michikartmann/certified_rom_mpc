@@ -1,6 +1,6 @@
 <!-- PROJECT SHIELDS -->
 <!-- [![arXiv][arxiv-shield]][arxiv-url] -->
-<!-- [![DOI][doi-shield]][doi-url]-->
+[![DOI](https://zenodo.org/badge/902835677.svg)](https://doi.org/10.5281/zenodo.14443259)
 <!--[![MIT License][license-shield]][license-url]-->
 
 # Certified Model Predictive Control For Switched Evolution Equations Using Model Order Reduction
