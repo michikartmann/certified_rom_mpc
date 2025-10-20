@@ -460,6 +460,7 @@ class mpc():
 
         else:
             compare_ests = None 
+        control_list = []
         
         # loop
         print(f'------------------------------------ MPC with prediction model: {self.prediction_model.model_type}, plant: {self.model.model_type} ---------------------------------------------')

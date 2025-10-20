@@ -531,7 +531,7 @@ class pod_reductor():
         tol = self.truncation_tol
         truncate_normalized_POD_values = False
         if energy_tolerance is None:
-            energy_tolerance = 1-1e-13
+            energy_tolerance = 1-1e-10 #1-1e-13
         
         if W is None: 
             pass 
