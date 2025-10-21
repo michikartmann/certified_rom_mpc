@@ -27,7 +27,7 @@ data_folder = 'data/test/'
 plot_folder = 'plots/'
 
 # update tolerance
-constant_tol = 1e-3
+constant_tol = 1e-2
 State_update_tol_start_end = [constant_tol, constant_tol]
 Control_update_tol_start_end = [constant_tol, constant_tol]
 
